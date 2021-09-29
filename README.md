@@ -1,0 +1,1 @@
+# GVWire-NewsletterTemplate
